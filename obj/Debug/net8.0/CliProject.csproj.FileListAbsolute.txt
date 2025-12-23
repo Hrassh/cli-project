@@ -1,0 +1,14 @@
+C:\Users\tema3\Desktop\Новая папка (7)\bin\Debug\net8.0\CliProject.exe
+C:\Users\tema3\Desktop\Новая папка (7)\bin\Debug\net8.0\CliProject.deps.json
+C:\Users\tema3\Desktop\Новая папка (7)\bin\Debug\net8.0\CliProject.runtimeconfig.json
+C:\Users\tema3\Desktop\Новая папка (7)\bin\Debug\net8.0\CliProject.dll
+C:\Users\tema3\Desktop\Новая папка (7)\bin\Debug\net8.0\CliProject.pdb
+C:\Users\tema3\Desktop\Новая папка (7)\obj\Debug\net8.0\CliProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tema3\Desktop\Новая папка (7)\obj\Debug\net8.0\CliProject.AssemblyInfoInputs.cache
+C:\Users\tema3\Desktop\Новая папка (7)\obj\Debug\net8.0\CliProject.AssemblyInfo.cs
+C:\Users\tema3\Desktop\Новая папка (7)\obj\Debug\net8.0\CliProject.csproj.CoreCompileInputs.cache
+C:\Users\tema3\Desktop\Новая папка (7)\obj\Debug\net8.0\CliProject.dll
+C:\Users\tema3\Desktop\Новая папка (7)\obj\Debug\net8.0\refint\CliProject.dll
+C:\Users\tema3\Desktop\Новая папка (7)\obj\Debug\net8.0\CliProject.pdb
+C:\Users\tema3\Desktop\Новая папка (7)\obj\Debug\net8.0\CliProject.genruntimeconfig.cache
+C:\Users\tema3\Desktop\Новая папка (7)\obj\Debug\net8.0\ref\CliProject.dll
